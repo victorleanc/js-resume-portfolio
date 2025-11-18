@@ -9,9 +9,9 @@
 
 .acordeon.open,
 .acordeon:hover {
-    background-color: #55569E;
-    border: #55569E;
-    transition: .25s;
+  background-color: #55569e;
+  border: #55569e;
+  transition: 0.25s;
 }
 
 .acordeon .trigger {
@@ -28,18 +28,18 @@
 }
 
 .acordeon .trigger:hover {
-    cursor: pointer;
+  cursor: pointer;
 }
 
 .acordeon .trigger::after {
-  content: '';
+  content: "";
   display: inline-block;
   width: 1.5rem;
   height: 1.5rem;
   background-repeat: no-repeat;
   background-size: contain;
-  background-image: url('/assets/images/icons/arrow-icon.svg');
-  transition: .25s;
+  background-image: url("assets/images/icons/arrow-icon.svg");
+  transition: 0.25s;
 }
 
 .acordeon.open .trigger::after {
@@ -50,7 +50,7 @@
   overflow: hidden;
   height: 0;
   opacity: 0;
-  transition: .5s opacity ease-in-out;
+  transition: 0.5s opacity ease-in-out;
 }
 
 .acordeon.open .content {
