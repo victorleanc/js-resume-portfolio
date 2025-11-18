@@ -1,6 +1,6 @@
 {
   "name": "João Victor L Coelho",
-  "photo": "https://avatars.githubusercontent.com/u/3266640?v=4",
+  "photo": "https://raw.githubusercontent.com/victorleanc/js-resume-portfolio/refs/heads/main/assets/images/euotimizado.jpg",
   "job": "Desenvolvedor de Software",
   "location": "Curitiba - PR",
   "phone": "(41) 98490-3640",
@@ -54,7 +54,7 @@
     },
     {
       "name": "Curso Ministrado na DIO para a criação de uma página de portfolio",
-      "url": "https://github.com/RenanJPaula/js-developer-portfolio",
+      "url": "https://github.com/victorleanc/js-resume-portfolio",
       "github": true
     }
   ],
