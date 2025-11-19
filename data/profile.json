@@ -1,6 +1,6 @@
 {
   "name": "João Victor L Coelho",
-  "photo": "..assets/images/euotimizado.jpg",
+  "photo": "../images/euotimizado.jpg",
   "job": "Desenvolvedor de Software",
   "location": "Curitiba - PR",
   "phone": "(41) 98490-3640",
@@ -9,19 +9,19 @@
     "hardSkills": [
       {
         "name": "JavaScript",
-        "logo": "..assets/images/icons/javascript-icon.svg"
+        "logo": "../images/icons/javascript-icon.svg"
       },
       {
         "name": "Python",
-        "logo": "..assets/images/icons/python-icon.svg"
+        "logo": "../images/icons/python-icon.svg"
       },
       {
         "name": "MySQL",
-        "logo": "..assets/images/icons/my-sql.svg"
+        "logo": "../images/icons/my-sql.svg"
       },
       {
         "name": "React",
-        "logo": "..assets/images/icons/react-icon.svg"
+        "logo": "../images/icons/react-icon.svg"
       }
     ],
     "softSkills": [
