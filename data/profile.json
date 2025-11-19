@@ -1,6 +1,6 @@
 {
   "name": "João Victor L Coelho",
-  "photo": "https://raw.githubusercontent.com/victorleanc/js-resume-portfolio/refs/heads/mainassets/images/euotimizado.jpg",
+  "photo": "..assets/images/euotimizado.jpg",
   "job": "Desenvolvedor de Software",
   "location": "Curitiba - PR",
   "phone": "(41) 98490-3640",
@@ -9,19 +9,19 @@
     "hardSkills": [
       {
         "name": "JavaScript",
-        "logo": "https://raw.githubusercontent.com/victorleanc/js-resume-portfolio/ea85ae0207020dc1b413945a76bf4a1ac67ee346assets/images/icons/javascript-icon.svg"
+        "logo": "..assets/images/icons/javascript-icon.svg"
       },
       {
         "name": "Python",
-        "logo": "https://raw.githubusercontent.com/victorleanc/js-resume-portfolio/ea85ae0207020dc1b413945a76bf4a1ac67ee346assets/images/icons/python-icon.svg"
+        "logo": "..assets/images/icons/python-icon.svg"
       },
       {
         "name": "MySQL",
-        "logo": "https://raw.githubusercontent.com/victorleanc/js-resume-portfolio/ea85ae0207020dc1b413945a76bf4a1ac67ee346assets/images/icons/my-sql.svg"
+        "logo": "..assets/images/icons/my-sql.svg"
       },
       {
         "name": "React",
-        "logo": "https://raw.githubusercontent.com/victorleanc/js-resume-portfolio/ea85ae0207020dc1b413945a76bf4a1ac67ee346assets/images/icons/react-icon.svg"
+        "logo": "..assets/images/icons/react-icon.svg"
       }
     ],
     "softSkills": [
