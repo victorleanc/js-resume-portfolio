@@ -9,19 +9,31 @@
     "hardSkills": [
       {
         "name": "JavaScript",
-        "logo": "https://raw.githubusercontent.com/victorleanc/js-resume-portfolio/refs/heads/main/data/javascript-icon.svg"
+        "logo": "https://raw.githubusercontent.com/victorleanc/js-resume-portfolio/refs/heads/main/data/javascript.png"
       },
       {
         "name": "Python",
-        "logo": "https://raw.githubusercontent.com/victorleanc/js-resume-portfolio/refs/heads/main/data/python-icon.svg"
+        "logo": "https://raw.githubusercontent.com/victorleanc/js-resume-portfolio/refs/heads/main/data/python.png"
       },
       {
         "name": "MySQL",
-        "logo": "https://raw.githubusercontent.com/victorleanc/js-resume-portfolio/refs/heads/main/data/my-sql.svg"
+        "logo": "https://raw.githubusercontent.com/victorleanc/js-resume-portfolio/refs/heads/main/data/mysql.png"
       },
       {
         "name": "React",
-        "logo": "https://raw.githubusercontent.com/victorleanc/js-resume-portfolio/refs/heads/main/data/react-icon.svg"
+        "logo": "https://raw.githubusercontent.com/victorleanc/js-resume-portfolio/refs/heads/main/data/react.png"
+      },
+      {
+        "name": "CSS3",
+        "logo": "https://raw.githubusercontent.com/victorleanc/js-resume-portfolio/refs/heads/main/data/css.png"
+      },
+      {
+        "name": "HTML5",
+        "logo": "https://raw.githubusercontent.com/victorleanc/js-resume-portfolio/refs/heads/main/data/html.png"
+      },
+      {
+        "name": "Github",
+        "logo": "https://raw.githubusercontent.com/victorleanc/js-resume-portfolio/refs/heads/main/data/github.png"
       }
     ],
     "softSkills": [
